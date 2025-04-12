@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Estudiante de matemáticas en la Universidad de Valencia.
+Correo: pusuay@alumni.uv.es
+
 <!--
 **pusuay/pusuay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
